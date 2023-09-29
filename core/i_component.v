@@ -1,3 +1,6 @@
 module core
 
-pub interface Component {}
+pub interface Component {
+	component_id string
+
+}
